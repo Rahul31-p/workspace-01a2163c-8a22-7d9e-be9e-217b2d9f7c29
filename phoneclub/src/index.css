@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+
+    /* PhoneClub.in brand palette: warm paper surfaces, orange primary, ink text. */
+    /* Surfaces */
+    --background: 60 20% 98%; /* #fbfbf9 */
+    --card: 0 0% 100%; /* #ffffff */
+    --card-foreground: 240 3% 12%; /* #1d1d1f */
+    --popover: 0 0% 100%; /* #ffffff */
+    --popover-foreground: 240 3% 12%; /* #1d1d1f */
+    --surface: 0 0% 100%; /* #ffffff */
+    --surface-low: 60 8% 95%; /* #f4f4f2 */
+    --surface-container: 240 10% 94%; /* #efeff2 */
+    --surface-high: 240 12% 92%; /* #e8e8ed */
+    --surface-highest: 240 9% 89%; /* #e1e1e6 */
+    --ink: 240 4% 5%; /* #0c0c0d */
+
+    /* Typography */
+    --foreground: 240 3% 12%; /* #1d1d1f */
+    --muted: 60 8% 95%; /* #f4f4f2 */
+    --muted-foreground: 240 2% 44%; /* #6e6e73 */
+
+    /* Brand + actions */
+    --primary: 17 88% 40%; /* #c2410c */
+    --primary-hover: 15 79% 34%; /* #9a3412 */
+    --primary-foreground: 0 0% 100%;
+    --brand: 23 93% 57%; /* #f7782a */
+    --brand-hover: 22 89% 53%; /* #f26a1b */
+    --brand-soft: 23 100% 95%; /* #fff1e8 */
+    --brand-foreground: 0 0% 100%;
+    --tertiary: 210 85% 29%; /* #0b4a8b */
+    --success: 138 59% 30%; /* #1f7a3a */
+    --success-hover: 139 64% 22%; /* #145a2a */
+    --success-foreground: 0 0% 100%;
+    --success-soft: 143 47% 93%; /* #e6f6ec */
+    --warning: 34 100% 32%; /* #a45c00 */
+    --warning-hover: 19 83% 26%; /* #7a2e0b */
+    --warning-foreground: 0 0% 100%;
+    --warning-soft: 46 100% 94%; /* #fff8e1 */
+    --destructive: 0 66% 47%; /* #c62828 */
+    --destructive-hover: 0 75% 32%; /* #8e1414 */
+    --destructive-soft: 0 85% 95%; /* #fde7e7 */
+    --destructive-foreground: 0 0% 100%;
+
+    /* Controls */
+    --border: 240 6% 83%; /* #d2d2d7 */
+    --input: 240 6% 83%; /* #d2d2d7 */
+    --ring: 17 88% 40%; /* #c2410c */
+    --accent: 23 100% 95%; /* #fff1e8 */
+    --accent-foreground: 15 79% 34%; /* #9a3412 */
+
+    --radius: 0.75rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html,
+  body,
+  #root {
+    min-height: 100%;
+  }
+
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+    font-feature-settings: 'cv11', 'ss01';
+  }
+
+  ::selection {
+    @apply bg-primary/15 text-foreground;
+  }
+
+  :focus-visible {
+    outline: none;
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--border)) transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar {
+    height: 6px;
+    width: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--border));
+    border-radius: 9999px;
+  }
+}

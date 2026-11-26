@@ -1,0 +1,186 @@
+{
+  "generatedAt": "2026-11-26T05:30:42.852Z",
+  "results": [
+    {
+      "name": "1920px: text content unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1920px: element structure/order unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1920px: all element positions and sizes unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1920px: non-color computed styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1920px: document scroll dimensions unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1440px: text content unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1440px: element structure/order unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1440px: all element positions and sizes unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1440px: non-color computed styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1440px: document scroll dimensions unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1024px: text content unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1024px: element structure/order unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1024px: all element positions and sizes unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1024px: non-color computed styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1024px: document scroll dimensions unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "768px: text content unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "768px: element structure/order unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "768px: all element positions and sizes unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "768px: non-color computed styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "768px: document scroll dimensions unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "390px: text content unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "390px: element structure/order unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "390px: all element positions and sizes unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "390px: non-color computed styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "390px: document scroll dimensions unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "360px: text content unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "360px: element structure/order unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "360px: all element positions and sizes unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "360px: non-color computed styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "360px: document scroll dimensions unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Inventory edit dialog: dimensions and non-color styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Add employee dialog: dimensions and non-color styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Demo user dropdown: dimensions and non-color styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Store selector dropdown: dimensions and non-color styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Mobile navigation drawer: dimensions and non-color styles unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "No console or page errors during parity comparison",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "errors": []
+}

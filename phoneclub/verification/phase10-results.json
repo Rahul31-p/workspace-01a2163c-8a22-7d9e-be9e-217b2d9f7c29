@@ -1,0 +1,443 @@
+{
+  "generatedAt": "2026-11-26T04:58:04.627Z",
+  "summary": {
+    "total": 72,
+    "passed": 72,
+    "failed": 0
+  },
+  "runtimeErrors": [],
+  "results": [
+    {
+      "section": "Responsive",
+      "name": "1920 desktop: no horizontal overflow on all 10 routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "1920 desktop: every route renders content",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "1920 desktop: no placeholder values in rendered UI",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "1440 laptop: no horizontal overflow on all 10 routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "1440 laptop: every route renders content",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "1440 laptop: no placeholder values in rendered UI",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "1024 tablet: no horizontal overflow on all 10 routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "1024 tablet: every route renders content",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "1024 tablet: no placeholder values in rendered UI",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "768 tablet: no horizontal overflow on all 10 routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "768 tablet: every route renders content",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "768 tablet: no placeholder values in rendered UI",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "390 mobile: no horizontal overflow on all 10 routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "390 mobile: every route renders content",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "390 mobile: no placeholder values in rendered UI",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "360 mobile: no horizontal overflow on all 10 routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "360 mobile: every route renders content",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Responsive",
+      "name": "360 mobile: no placeholder values in rendered UI",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Navigation",
+      "name": "All 10 sidebar links render for Super Admin",
+      "status": "PASS",
+      "detail": "Dashboard | Mobile Inventory | Add New Stock | Sales Management | Store Management | Stock Transfers | Reports & Analytics | Team & Access | Settings | Help & Support"
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Dashboard",
+      "status": "PASS",
+      "detail": "heading=\"Dashboard\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Mobile Inventory",
+      "status": "PASS",
+      "detail": "heading=\"Mobile Inventory\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Add New Stock",
+      "status": "PASS",
+      "detail": "heading=\"Add New Stock\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Sales Management",
+      "status": "PASS",
+      "detail": "heading=\"Sales Management\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Store Management",
+      "status": "PASS",
+      "detail": "heading=\"Store Management\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Stock Transfers",
+      "status": "PASS",
+      "detail": "heading=\"Stock Transfers\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Reports & Analytics",
+      "status": "PASS",
+      "detail": "heading=\"Reports & Analytics\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Team & Access",
+      "status": "PASS",
+      "detail": "heading=\"Team & Access\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Settings",
+      "status": "PASS",
+      "detail": "heading=\"Settings\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar link opens Help & Support",
+      "status": "PASS",
+      "detail": "heading=\"Help & Support\""
+    },
+    {
+      "section": "Navigation",
+      "name": "Header title follows active route",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar collapses",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Navigation",
+      "name": "Sidebar expands",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Navigation",
+      "name": "Header notifications menu opens with 3 entries",
+      "status": "PASS",
+      "detail": "3 items"
+    },
+    {
+      "section": "Navigation",
+      "name": "Header search opens filtered inventory",
+      "status": "PASS",
+      "detail": "http://localhost:5173/inventory?q=iPhone%2015"
+    },
+    {
+      "section": "Navigation",
+      "name": "Header search populates inventory search field",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Store",
+      "name": "Store selector scopes dashboard inventory",
+      "status": "PASS",
+      "detail": "48 → 13"
+    },
+    {
+      "section": "Store",
+      "name": "Store selector visible state updates",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Navigation",
+      "name": "User dropdown lists active mock users",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Navigation",
+      "name": "Inactive user excluded from dropdown",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Access",
+      "name": "Store Manager loses Team navigation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Access",
+      "name": "Store Manager keeps Reports navigation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Access",
+      "name": "Super Admin navigation restored",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Navigation",
+      "name": "Header menu Settings link works",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Navigation",
+      "name": "Header menu Help link works",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Store",
+      "name": "Employee reassignment updates store card assignment list",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Empty states",
+      "name": "/inventory shows an empty state",
+      "status": "PASS",
+      "detail": "No devices match"
+    },
+    {
+      "section": "Empty states",
+      "name": "/sales shows an empty state",
+      "status": "PASS",
+      "detail": "No transactions match"
+    },
+    {
+      "section": "Empty states",
+      "name": "/transfers shows an empty state",
+      "status": "PASS",
+      "detail": "No transfers match"
+    },
+    {
+      "section": "Empty states",
+      "name": "/team shows an empty state",
+      "status": "PASS",
+      "detail": "No employees match"
+    },
+    {
+      "section": "Accessibility",
+      "name": "/dashboard: visible buttons have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/dashboard: visible form fields have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/inventory: visible buttons have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/inventory: visible form fields have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/add-stock: visible buttons have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/add-stock: visible form fields have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/sales: visible buttons have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/sales: visible form fields have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/stores: visible buttons have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/stores: visible form fields have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/transfers: visible buttons have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/transfers: visible form fields have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/reports: visible buttons have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/reports: visible form fields have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/team: visible buttons have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Accessibility",
+      "name": "/team: visible form fields have accessible names",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Mobile",
+      "name": "Navigation drawer opens",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Mobile",
+      "name": "Drawer contains all sidebar links",
+      "status": "PASS",
+      "detail": "Dashboard | Mobile Inventory | Add New Stock | Sales Management | Store Management | Stock Transfers | Reports & Analytics | Team & Access | Settings | Help & Support | Dashboard | Mobile Inventory | Add New Stock | Sales Management | Store Management | Stock Transfers | Reports & Analytics | Team & Access | Settings | Help & Support"
+    },
+    {
+      "section": "Mobile",
+      "name": "Drawer closes after navigation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Mobile",
+      "name": "Drawer navigation reaches selected page",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Mobile",
+      "name": "Compact store selector works",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Mobile",
+      "name": "Store selection updates compact selector",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "section": "Runtime",
+      "name": "No console or page errors in Phase 10 suite",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-11-26T04:59:06.365Z",
+  "tokens": {
+    "--background": "60 20% 98%",
+    "--card": "0 0% 100%",
+    "--foreground": "240 3% 12%",
+    "--muted-foreground": "240 2% 44%",
+    "--primary": "17 88% 40%",
+    "--brand": "23 93% 57%",
+    "--success": "138 59% 30%",
+    "--warning": "34 100% 32%",
+    "--destructive": "0 66% 47%",
+    "--border": "240 6% 83%",
+    "--input": "240 6% 83%",
+    "--ring": "17 88% 40%"
+  },
+  "results": [
+    {
+      "name": "Palette tokens match phoneclub.in",
+      "status": "PASS",
+      "detail": "{\"--background\":\"60 20% 98%\",\"--card\":\"0 0% 100%\",\"--foreground\":\"240 3% 12%\",\"--muted-foreground\":\"240 2% 44%\",\"--primary\":\"17 88% 40%\",\"--brand\":\"23 93% 57%\",\"--success\":\"138 59% 30%\",\"--warning\":\"34 100% 32%\",\"--destructive\":\"0 66% 47%\",\"--border\":\"240 6% 83%\",\"--input\":\"240 6% 83%\",\"--ring\":\"17 88% 40%\"}"
+    },
+    {
+      "name": "Warm paper app background",
+      "status": "PASS",
+      "detail": "rgb(251, 251, 249)"
+    },
+    {
+      "name": "Ink body text",
+      "status": "PASS",
+      "detail": "rgb(30, 30, 32)"
+    },
+    {
+      "name": "Body text contrast ≥ 4.5:1",
+      "status": "PASS",
+      "detail": "16.06:1"
+    },
+    {
+      "name": "Primary button uses PhoneClub dark orange",
+      "status": "PASS",
+      "detail": "rgb(192, 63, 12)"
+    },
+    {
+      "name": "Primary button text contrast ≥ 4.5:1",
+      "status": "PASS",
+      "detail": "5.31:1"
+    },
+    {
+      "name": "Primary hover state uses darker orange",
+      "status": "PASS",
+      "detail": "rgb(192, 63, 12) → rgb(155, 52, 18)"
+    },
+    {
+      "name": "Active navigation has orange tint",
+      "status": "PASS",
+      "detail": "rgba(192, 63, 12, 0.1)"
+    },
+    {
+      "name": "Active navigation text contrast ≥ 4.5:1",
+      "status": "PASS",
+      "detail": "rgb(192, 63, 12) on page"
+    },
+    {
+      "name": "Input uses warm surface and border",
+      "status": "PASS",
+      "detail": "{\"bg\":\"rgb(255, 255, 255)\",\"border\":\"rgb(209, 209, 214)\",\"color\":\"rgb(30, 30, 32)\"}"
+    },
+    {
+      "name": "Input text contrast ≥ 4.5:1",
+      "status": "PASS",
+      "detail": "16.64:1"
+    },
+    {
+      "name": "Input focus ring uses brand orange",
+      "status": "PASS",
+      "detail": "rgb(255, 255, 255) 0px 0px 0px 0px, rgba(192, 63, 12, 0.2) 0px 0px 0px 2px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px"
+    },
+    {
+      "name": "Table header uses warm surface",
+      "status": "PASS",
+      "detail": "{\"bg\":\"rgba(0, 0, 0, 0)\",\"color\":\"rgb(110, 110, 114)\"}"
+    },
+    {
+      "name": "Table header text contrast ≥ 4.5:1",
+      "status": "PASS",
+      "detail": "rgb(110, 110, 114)"
+    },
+    {
+      "name": "No legacy blue/slate/red colors remain on any page",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1920px: no horizontal overflow on all routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1440px: no horizontal overflow on all routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "1024px: no horizontal overflow on all routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "768px: no horizontal overflow on all routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "390px: no horizontal overflow on all routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "360px: no horizontal overflow on all routes",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "No console or page errors during theme verification",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "errors": []
+}
